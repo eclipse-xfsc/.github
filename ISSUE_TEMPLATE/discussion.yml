@@ -1,0 +1,25 @@
+name: "💬 Discussion"
+description: "Start a conversation, ask a question, or propose an idea"
+title: "[DISCUSSION] <topic>"
+labels: ["discussion"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: "🧠 Use this space to brainstorm, ask questions, or suggest ideas."
+
+  - type: textarea
+    id: topic
+    attributes:
+      label: Discussion Topic
+      description: What would you like to talk about?
+    validations:
+      required: true
+
+  - type: textarea
+    id: thoughts
+    attributes:
+      label: Thoughts & Details
+      description: Share your thoughts, context, or relevant links.
+    validations:
+      required: false
