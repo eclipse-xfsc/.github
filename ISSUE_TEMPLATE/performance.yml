@@ -1,0 +1,33 @@
+name: "⚙️ Performance"
+description: "Report performance bottlenecks or suggest optimization"
+title: "[PERF] <description>"
+labels: ["performance"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: "🚀 Let’s make things faster!"
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Performance Issue
+      description: Describe the performance issue clearly.
+    validations:
+      required: true
+
+  - type: textarea
+    id: metrics
+    attributes:
+      label: Evidence / Benchmarks
+      description: Provide profiling data, timing results, or other metrics.
+    validations:
+      required: false
+
+  - type: textarea
+    id: suggestions
+    attributes:
+      label: Potential Improvements
+      description: Any ideas for how to optimize it?
+    validations:
+      required: false
