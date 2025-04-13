@@ -1,0 +1,33 @@
+name: "📝 Documentation"
+description: "Report a doc issue or suggest improvements"
+title: "[DOCS] <summary>"
+labels: ["documentation"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: "📚 Help us improve the documentation!"
+
+  - type: textarea
+    id: location
+    attributes:
+      label: Location in Docs
+      description: Where is the issue? (Link or section name)
+    validations:
+      required: true
+
+  - type: textarea
+    id: issue
+    attributes:
+      label: What's wrong?
+      description: What's missing, incorrect, or unclear?
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested Fix
+      description: How could it be improved?
+    validations:
+      required: false
