@@ -1,0 +1,25 @@
+name: Update CODE_OF_CONDUCT
+
+on:
+  schedule:
+    # alle 6 Monate am 1. Tag um 00:00 Uhr
+    - cron: "0 0 1 */6 *"
+  workflow_dispatch: 
+
+jobs:
+  update-code-of-conduct:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Download latest CODE_OF_CONDUCT.md
+        run: curl -sSL https://raw.githubusercontent.com/eclipse/.github/master/CODE_OF_CONDUCT.md -o CODE_OF_CONDUCT.md
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add CODE_OF_CONDUCT.md
+          git commit -m "chore: update CODE_OF_CONDUCT.md from eclipse/.github" || echo "No changes to commit"
+          git push
