@@ -26,7 +26,6 @@ SPDX-License-Identifier: Apache-2.0
 
 The project maintains the following source code repositories:
 
-
 ## Cryptography
 
 Content may contain encryption software. The country in which you are currently
