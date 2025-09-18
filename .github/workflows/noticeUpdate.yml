@@ -24,33 +24,20 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: gh auth setup-git
 
-      - name: Fetch repos from org
+      - name: Fetch repo list and rebuild Source Code section
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          # Repos sammeln
           gh repo list eclipse-xfsc --limit 500 --json nameWithOwner,archived,isPrivate \
             | jq -r '.[] | select(.archived==false) | select(.isPrivate==false) | .nameWithOwner' \
             | sed 's#^#* https://github.com/#' \
             > repo_list.txt
 
-      - name: Update NOTICE.md
-        run: |
-          # Kopf bis Source Code
-          awk 'BEGIN{flag=1} /^## Source Code/{flag=0} flag' NOTICE.md > head.txt
+          # File neu aufbauen
+          awk 'BEGIN{flag=1} /^## Source Code/{print "## Source Code"; print ""; print "The project maintains the following source code repositories:"; print ""; while ((getline line < "repo_list.txt") > 0) print line; flag=0; next} /^## Cryptography/{flag=1} flag' NOTICE.md > NOTICE.new
 
-          # Ende ab Cryptography
-          awk 'BEGIN{flag=0} /^## Cryptography/{flag=1} flag' NOTICE.md > tail.txt
-
-          {
-            cat head.txt
-            echo "## Source Code"
-            echo
-            echo "The project maintains the following source code repositories:"
-            echo
-            cat repo_list.txt
-            echo
-            cat tail.txt
-          } > NOTICE.md
+          mv NOTICE.new NOTICE.md
 
       - name: Commit and push changes
         run: |
