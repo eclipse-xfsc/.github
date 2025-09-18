@@ -29,10 +29,10 @@ jobs:
 
       - name: Replace Developer resources section in CONTRIBUTING.md
         run: |
-          # Header bis Developer resources kopieren
+          # Kopf bis zum Marker kopieren
           sed -n '1,/^## Developer resources/p' CONTRIBUTING.md > CONTRIBUTING.new
 
-          # Neue Section einfügen
+          # Neue Section schreiben
           {
             echo
             echo "Information regarding source code management, builds, coding standards, and"
@@ -46,9 +46,10 @@ jobs:
             echo
           } >> CONTRIBUTING.new
 
-          # Rest (nächstes Kapitel oder Datei-Ende) anhängen
-          # Falls du ein fixes Kapitel nach Developer resources hast, ersetze '## ' durch dessen Marker
-          sed -n '/^## [A-Z]/,/^$/p' CONTRIBUTING.md | tail -n +2 >> CONTRIBUTING.new || true
+          # Rest ab nächstem Kapitel (erstes weiteres '## ' nach Developer resources) dranhängen
+          awk 'BEGIN{found=0;skip=1} /^## Developer resources/{found=1;next}
+               found && /^## /{skip=0}
+               !skip{print}' CONTRIBUTING.md >> CONTRIBUTING.new
 
           mv CONTRIBUTING.new CONTRIBUTING.md
 
