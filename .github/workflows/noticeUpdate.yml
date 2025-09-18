@@ -1,0 +1,61 @@
+name: Update NOTICE with org repositories
+
+on:
+  schedule:
+    # alle 2 Wochen montags um 02:00 UTC
+    - cron: "0 2 * * 1/2"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-notice:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install GitHub CLI + jq
+        run: sudo apt-get update && sudo apt-get install -y gh jq
+
+      - name: Authenticate GitHub CLI
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh auth setup-git
+
+      - name: Fetch repos from org
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh repo list eclipse-xfsc --limit 500 --json nameWithOwner,archived,isPrivate \
+            | jq -r '.[] | select(.archived==false) | select(.isPrivate==false) | .nameWithOwner' \
+            | sed 's#^#* https://github.com/#' \
+            > repo_list.txt
+
+      - name: Update NOTICE.md
+        run: |
+          # Kopf bis Source Code
+          awk 'BEGIN{flag=1} /^## Source Code/{flag=0} flag' NOTICE.md > head.txt
+
+          # Ende ab Cryptography
+          awk 'BEGIN{flag=0} /^## Cryptography/{flag=1} flag' NOTICE.md > tail.txt
+
+          {
+            cat head.txt
+            echo "## Source Code"
+            echo
+            echo "The project maintains the following source code repositories:"
+            echo
+            cat repo_list.txt
+            echo
+            cat tail.txt
+          } > NOTICE.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add NOTICE.md
+          git commit -m "chore: update NOTICE.md with latest repos from eclipse-xfsc org" || echo "No changes"
+          git push
