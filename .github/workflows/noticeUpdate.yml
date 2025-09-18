@@ -19,23 +19,30 @@ jobs:
       - name: Install GitHub CLI + jq
         run: sudo apt-get update && sudo apt-get install -y gh jq
 
-      - name: Authenticate GitHub CLI
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh auth setup-git
-
-      - name: Fetch repo list and rebuild Source Code section
+      - name: Fetch repo list
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Repos sammeln
           gh repo list eclipse-xfsc --limit 500 --json nameWithOwner,archived,isPrivate \
             | jq -r '.[] | select(.archived==false) | select(.isPrivate==false) | .nameWithOwner' \
-            | sed 's#^#* https://github.com/#' \
-            > repo_list.txt
+            | sed 's#^#* https://github.com/#' > repo_list.txt
 
-          # File neu aufbauen
-          awk 'BEGIN{flag=1} /^## Source Code/{print "## Source Code"; print ""; print "The project maintains the following source code repositories:"; print ""; while ((getline line < "repo_list.txt") > 0) print line; flag=0; next} /^## Cryptography/{flag=1} flag' NOTICE.md > NOTICE.new
+      - name: Replace Source Code section in NOTICE.md
+        run: |
+          # Header bis Source Code kopieren
+          sed -n '1,/^## Source Code/p' NOTICE.md > NOTICE.new
+
+          # Neue Section einfügen
+          {
+            echo
+            echo "The project maintains the following source code repositories:"
+            echo
+            cat repo_list.txt
+            echo
+          } >> NOTICE.new
+
+          # Rest ab Cryptography anhängen
+          sed -n '/^## Cryptography/,$p' NOTICE.md >> NOTICE.new
 
           mv NOTICE.new NOTICE.md
 
