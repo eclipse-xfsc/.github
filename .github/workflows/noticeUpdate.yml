@@ -23,8 +23,8 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh repo list eclipse-xfsc --limit 500 --json nameWithOwner,archived,isPrivate \
-            | jq -r '.[] | select(.archived==false) | select(.isPrivate==false) | .nameWithOwner' \
+          gh repo list eclipse-xfsc --limit 500 --json nameWithOwner,isArchived,isPrivate \
+            | jq -r '.[] | select(.isArchived==false) | select(.isPrivate==false) | .nameWithOwner' \
             | sed 's#^#* https://github.com/#' > repo_list.txt
 
       - name: Replace Source Code section in NOTICE.md
