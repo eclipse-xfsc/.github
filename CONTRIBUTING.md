@@ -80,6 +80,9 @@ The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
+* https://github.com/eclipse-xfsc/mobile-wallet
+* https://github.com/eclipse-xfsc/federated-catalogue
+* https://github.com/eclipse-xfsc/dev-ops
 * https://github.com/eclipse-xfsc/oid4-vci-credential-verification-service
 * https://github.com/eclipse-xfsc/didcomm-v2-connector
 * https://github.com/eclipse-xfsc/oid4-vci-vp-well-known-service
@@ -106,14 +109,12 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/cloud-wallet-integration-tests
 * https://github.com/eclipse-xfsc/train-trust-framework-manager
 * https://github.com/eclipse-xfsc/oid4-vci-issuer-service
-* https://github.com/eclipse-xfsc/federated-catalogue
 * https://github.com/eclipse-xfsc/redis-cache-service
 * https://github.com/eclipse-xfsc/portal-self-description-service
 * https://github.com/eclipse-xfsc/portal-demo
 * https://github.com/eclipse-xfsc/cloud-wallet-plugin-core
 * https://github.com/eclipse-xfsc/portal-claim-mapping-library
 * https://github.com/eclipse-xfsc/configuration-service
-* https://github.com/eclipse-xfsc/dev-ops
 * https://github.com/eclipse-xfsc/ssi-vdr-ipfs
 * https://github.com/eclipse-xfsc/orchestration-engine
 * https://github.com/eclipse-xfsc/crypto-provider-hashicorp-vault-plugin
@@ -183,7 +184,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/portal-e2e-test-automation
 * https://github.com/eclipse-xfsc/portal-infra-mesh
 * https://github.com/eclipse-xfsc/portal-federated-catalogue-management
-* https://github.com/eclipse-xfsc/mobile-wallet
 * https://github.com/eclipse-xfsc/train-shared
 * https://github.com/eclipse-xfsc/rego-policies
 * https://github.com/eclipse-xfsc/crypto-provider-luna-cloud-hsm-plugin
