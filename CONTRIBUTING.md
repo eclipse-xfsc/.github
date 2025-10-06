@@ -80,6 +80,7 @@ The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
+* https://github.com/eclipse-xfsc/cloud-wallet-plugin-core
 * https://github.com/eclipse-xfsc/mobile-wallet
 * https://github.com/eclipse-xfsc/train-dns-trust-zone-manager
 * https://github.com/eclipse-xfsc/orchestrators
@@ -100,7 +101,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/portal-self-description-service
 * https://github.com/eclipse-xfsc/portal-demo
 * https://github.com/eclipse-xfsc/task-sheduler
-* https://github.com/eclipse-xfsc/cloud-wallet-plugin-core
 * https://github.com/eclipse-xfsc/federated-catalogue
 * https://github.com/eclipse-xfsc/dev-ops
 * https://github.com/eclipse-xfsc/oid4-vci-credential-verification-service
