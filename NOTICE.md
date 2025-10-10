@@ -27,6 +27,9 @@ SPDX-License-Identifier: Apache-2.0
 The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
+* https://github.com/eclipse-xfsc/federated-catalogue
+* https://github.com/eclipse-xfsc/facis-fap1-implementation
+* https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/mobile-wallet
 * https://github.com/eclipse-xfsc/facis
 * https://github.com/eclipse-xfsc/trusted-cloud
@@ -49,7 +52,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/train-trust-framework-manager
 * https://github.com/eclipse-xfsc/portal-did-management-service
 * https://github.com/eclipse-xfsc/redis-cache-service
-* https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/cloud-wallet-plugin-core
 * https://github.com/eclipse-xfsc/custom-policy-agent
 * https://github.com/eclipse-xfsc/ipfs-document-manager
@@ -64,7 +66,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/portal-self-description-service
 * https://github.com/eclipse-xfsc/portal-demo
 * https://github.com/eclipse-xfsc/task-sheduler
-* https://github.com/eclipse-xfsc/federated-catalogue
 * https://github.com/eclipse-xfsc/dev-ops
 * https://github.com/eclipse-xfsc/oid4-vci-credential-verification-service
 * https://github.com/eclipse-xfsc/didcomm-v2-connector
@@ -95,7 +96,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/easy-stack-builder
 * https://github.com/eclipse-xfsc/oid4-vci-vp-library
 * https://github.com/eclipse-xfsc/facis-fap2-implementation
-* https://github.com/eclipse-xfsc/facis-fap1-implementation
 * https://github.com/eclipse-xfsc/facis-aviation-poc
 * https://github.com/eclipse-xfsc/aw40-demonstrator
 * https://github.com/eclipse-xfsc/.eclipsefdn
