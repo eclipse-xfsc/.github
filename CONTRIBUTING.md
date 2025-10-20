@@ -79,12 +79,15 @@ more.
 The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/.github
+* https://github.com/eclipse-xfsc/sd-creation-wizard-frontend
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
+* https://github.com/eclipse-xfsc/mobile-wallet
 * https://github.com/eclipse-xfsc/facis-fap
-* https://github.com/eclipse-xfsc/dev-ops
-* https://github.com/eclipse-xfsc/.eclipsefdn
+* https://github.com/eclipse-xfsc/facis
 * https://github.com/eclipse-xfsc/smartdeployment
 * https://github.com/eclipse-xfsc/facis-poc
+* https://github.com/eclipse-xfsc/dev-ops
+* https://github.com/eclipse-xfsc/.eclipsefdn
 * https://github.com/eclipse-xfsc/data-exchange-logging
 * https://github.com/eclipse-xfsc/train-integration-tests
 * https://github.com/eclipse-xfsc/ssi-vdr-ipfs
@@ -101,7 +104,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/portal-sp-service
 * https://github.com/eclipse-xfsc/aries-integration-tests
 * https://github.com/eclipse-xfsc/task-sheduler
-* https://github.com/eclipse-xfsc/mobile-wallet
 * https://github.com/eclipse-xfsc/portal-self-description-management
 * https://github.com/eclipse-xfsc/portal-resource-provision-demo
 * https://github.com/eclipse-xfsc/portal-lcm-service
@@ -121,7 +123,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/bdd-executor
 * https://github.com/eclipse-xfsc/aas
 * https://github.com/eclipse-xfsc/ssi-vdr-core
-* https://github.com/eclipse-xfsc/sd-creation-wizard-frontend
 * https://github.com/eclipse-xfsc/oid4-vci-vp-library
 * https://github.com/eclipse-xfsc/oid4-vci-vp-integration-tests
 * https://github.com/eclipse-xfsc/oid4-vci-issuer-service
@@ -140,7 +141,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/did
 * https://github.com/eclipse-xfsc/facis-fap1-implementation
 * https://github.com/eclipse-xfsc/federated-catalogue
-* https://github.com/eclipse-xfsc/facis
 * https://github.com/eclipse-xfsc/trusted-cloud
 * https://github.com/eclipse-xfsc/orchestration-engine
 * https://github.com/eclipse-xfsc/oid4-vci-vp-well-known-service
