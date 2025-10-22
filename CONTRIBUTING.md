@@ -79,9 +79,18 @@ more.
 The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/.github
-* https://github.com/eclipse-xfsc/sd-creation-wizard-frontend
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
 * https://github.com/eclipse-xfsc/mobile-wallet
+* https://github.com/eclipse-xfsc/statuslist-service
+* https://github.com/eclipse-xfsc/oid4-vci-authorization-bridge
+* https://github.com/eclipse-xfsc/sd-validation-api
+* https://github.com/eclipse-xfsc/microservice-core-go
+* https://github.com/eclipse-xfsc/sd-creation-wizard-api
+* https://github.com/eclipse-xfsc/gx-vc-verifier-npm
+* https://github.com/eclipse-xfsc/trusted-info-hub
+* https://github.com/eclipse-xfsc/cloud-wallet-integration-tests
+* https://github.com/eclipse-xfsc/redis-cache-service
+* https://github.com/eclipse-xfsc/sd-creation-wizard-frontend
 * https://github.com/eclipse-xfsc/facis-fap
 * https://github.com/eclipse-xfsc/facis
 * https://github.com/eclipse-xfsc/smartdeployment
@@ -96,10 +105,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/custom-policy-agent
 * https://github.com/eclipse-xfsc/cloud-event-provider
 * https://github.com/eclipse-xfsc/train-dns-trust-zone-manager
-* https://github.com/eclipse-xfsc/oid4-vci-authorization-bridge
-* https://github.com/eclipse-xfsc/sd-creation-wizard-api
-* https://github.com/eclipse-xfsc/gx-vc-verifier-npm
-* https://github.com/eclipse-xfsc/trusted-info-hub
 * https://github.com/eclipse-xfsc/sd-jwt-service
 * https://github.com/eclipse-xfsc/portal-sp-service
 * https://github.com/eclipse-xfsc/aries-integration-tests
@@ -119,7 +124,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/cloud-wallet-plugin-core
 * https://github.com/eclipse-xfsc/cloud-wallet-plugin-frontend-template
 * https://github.com/eclipse-xfsc/cloud-wallet-plugin-backend-template
-* https://github.com/eclipse-xfsc/cloud-wallet-integration-tests
 * https://github.com/eclipse-xfsc/bdd-executor
 * https://github.com/eclipse-xfsc/aas
 * https://github.com/eclipse-xfsc/ssi-vdr-core
@@ -145,10 +149,8 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/orchestration-engine
 * https://github.com/eclipse-xfsc/oid4-vci-vp-well-known-service
 * https://github.com/eclipse-xfsc/notarization-service
-* https://github.com/eclipse-xfsc/microservice-core-go
 * https://github.com/eclipse-xfsc/train-trust-framework-manager
 * https://github.com/eclipse-xfsc/portal-did-management-service
-* https://github.com/eclipse-xfsc/redis-cache-service
 * https://github.com/eclipse-xfsc/ipfs-document-manager
 * https://github.com/eclipse-xfsc/event-log-service
 * https://github.com/eclipse-xfsc/crypto-provider-service
@@ -159,10 +161,8 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/email-service
 * https://github.com/eclipse-xfsc/portal-article-service
 * https://github.com/eclipse-xfsc/portal-user-account-service
-* https://github.com/eclipse-xfsc/statuslist-service
 * https://github.com/eclipse-xfsc/portal-admin-service
 * https://github.com/eclipse-xfsc/portal-onboarding-service
-* https://github.com/eclipse-xfsc/sd-validation-api
 * https://github.com/eclipse-xfsc/portal-dashboard-service
 * https://github.com/eclipse-xfsc/configuration-service
 * https://github.com/eclipse-xfsc/ssi-jwt
