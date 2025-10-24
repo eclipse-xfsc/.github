@@ -78,8 +78,9 @@ more.
 
 The project maintains the following source code repositories:
 
-* https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
+* https://github.com/eclipse-xfsc/.github
+* https://github.com/eclipse-xfsc/did-core
 * https://github.com/eclipse-xfsc/mobile-wallet
 * https://github.com/eclipse-xfsc/statuslist-service
 * https://github.com/eclipse-xfsc/oid4-vci-authorization-bridge
@@ -131,7 +132,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/oid4-vci-vp-integration-tests
 * https://github.com/eclipse-xfsc/oid4-vci-issuer-service
 * https://github.com/eclipse-xfsc/oid4-vci-issuer-dummycontentsigner
-* https://github.com/eclipse-xfsc/did-core
 * https://github.com/eclipse-xfsc/data-contract-transaction
 * https://github.com/eclipse-xfsc/crypto-provider-luna-cloud-hsm-plugin
 * https://github.com/eclipse-xfsc/crypto-provider-hashicorp-vault-plugin
