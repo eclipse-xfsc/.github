@@ -26,9 +26,11 @@ SPDX-License-Identifier: Apache-2.0
 
 The project maintains the following source code repositories:
 
+* https://github.com/eclipse-xfsc/sd-creation-wizard-frontend
+* https://github.com/eclipse-xfsc/portal-demo
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
-* https://github.com/eclipse-xfsc/did-core
 * https://github.com/eclipse-xfsc/.github
+* https://github.com/eclipse-xfsc/did-core
 * https://github.com/eclipse-xfsc/mobile-wallet
 * https://github.com/eclipse-xfsc/statuslist-service
 * https://github.com/eclipse-xfsc/oid4-vci-authorization-bridge
@@ -39,7 +41,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/trusted-info-hub
 * https://github.com/eclipse-xfsc/cloud-wallet-integration-tests
 * https://github.com/eclipse-xfsc/redis-cache-service
-* https://github.com/eclipse-xfsc/sd-creation-wizard-frontend
 * https://github.com/eclipse-xfsc/facis-fap
 * https://github.com/eclipse-xfsc/facis
 * https://github.com/eclipse-xfsc/smartdeployment
@@ -66,7 +67,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/portal-federated-catalogue-management
 * https://github.com/eclipse-xfsc/portal-e2e-test-automation
 * https://github.com/eclipse-xfsc/portal-discovery-service
-* https://github.com/eclipse-xfsc/portal-demo
 * https://github.com/eclipse-xfsc/portal-claim-mapping-service
 * https://github.com/eclipse-xfsc/portal-claim-mapping-library
 * https://github.com/eclipse-xfsc/cloud-wallet-web-ui
