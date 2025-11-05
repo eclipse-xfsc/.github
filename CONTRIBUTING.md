@@ -78,14 +78,15 @@ more.
 
 The project maintains the following source code repositories:
 
-* https://github.com/eclipse-xfsc/org.eclipse.xfsc
 * https://github.com/eclipse-xfsc/.github
+* https://github.com/eclipse-xfsc/org.eclipse.xfsc
+* https://github.com/eclipse-xfsc/cam
+* https://github.com/eclipse-xfsc/facis
 * https://github.com/eclipse-xfsc/did-core
 * https://github.com/eclipse-xfsc/didcomm-v2-connector
 * https://github.com/eclipse-xfsc/portal-article-service
 * https://github.com/eclipse-xfsc/data-contract-transaction
 * https://github.com/eclipse-xfsc/facis-fap
-* https://github.com/eclipse-xfsc/cam
 * https://github.com/eclipse-xfsc/portal-user-account-service
 * https://github.com/eclipse-xfsc/portal-admin-service
 * https://github.com/eclipse-xfsc/portal-onboarding-service
@@ -116,7 +117,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/microservice-core-go
 * https://github.com/eclipse-xfsc/sd-creation-wizard-api
 * https://github.com/eclipse-xfsc/trusted-info-hub
-* https://github.com/eclipse-xfsc/facis
 * https://github.com/eclipse-xfsc/smartdeployment
 * https://github.com/eclipse-xfsc/facis-poc
 * https://github.com/eclipse-xfsc/dev-ops
