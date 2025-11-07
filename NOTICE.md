@@ -27,9 +27,12 @@ SPDX-License-Identifier: Apache-2.0
 The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
+* https://github.com/eclipse-xfsc/oid4-vci-vp-well-known-service
+* https://github.com/eclipse-xfsc/federated-catalogue
+* https://github.com/eclipse-xfsc/.eclipsefdn
+* https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/cam
 * https://github.com/eclipse-xfsc/facis
-* https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/did-core
 * https://github.com/eclipse-xfsc/didcomm-v2-connector
 * https://github.com/eclipse-xfsc/portal-article-service
@@ -56,7 +59,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/train-trust-framework-manager
 * https://github.com/eclipse-xfsc/aries-ssi-agent
 * https://github.com/eclipse-xfsc/redis-cache-service
-* https://github.com/eclipse-xfsc/federated-catalogue
 * https://github.com/eclipse-xfsc/portal-self-description-service
 * https://github.com/eclipse-xfsc/sd-creation-wizard-frontend
 * https://github.com/eclipse-xfsc/portal-demo
@@ -68,7 +70,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/smartdeployment
 * https://github.com/eclipse-xfsc/facis-poc
 * https://github.com/eclipse-xfsc/dev-ops
-* https://github.com/eclipse-xfsc/.eclipsefdn
 * https://github.com/eclipse-xfsc/data-exchange-logging
 * https://github.com/eclipse-xfsc/train-integration-tests
 * https://github.com/eclipse-xfsc/ssi-vdr-ipfs
@@ -104,7 +105,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/facis-fap1-implementation
 * https://github.com/eclipse-xfsc/trusted-cloud
 * https://github.com/eclipse-xfsc/orchestration-engine
-* https://github.com/eclipse-xfsc/oid4-vci-vp-well-known-service
 * https://github.com/eclipse-xfsc/portal-did-management-service
 * https://github.com/eclipse-xfsc/ipfs-document-manager
 * https://github.com/eclipse-xfsc/event-log-service
