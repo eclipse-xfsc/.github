@@ -27,8 +27,15 @@ SPDX-License-Identifier: Apache-2.0
 The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
-* https://github.com/eclipse-xfsc/did-core
+* https://github.com/eclipse-xfsc/oid4-vci-issuer-service
+* https://github.com/eclipse-xfsc/oid4-vci-authorization-bridge
+* https://github.com/eclipse-xfsc/nats-message-library
+* https://github.com/eclipse-xfsc/oid4-vci-vp-library
 * https://github.com/eclipse-xfsc/ssi-jwt
+* https://github.com/eclipse-xfsc/did-core
+* https://github.com/eclipse-xfsc/portal-article-service
+* https://github.com/eclipse-xfsc/portal-lcm-service
+* https://github.com/eclipse-xfsc/portal-discovery-service
 * https://github.com/eclipse-xfsc/federated-catalogue
 * https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/oid4-vci-vp-well-known-service
@@ -36,19 +43,15 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/cam
 * https://github.com/eclipse-xfsc/facis
 * https://github.com/eclipse-xfsc/didcomm-v2-connector
-* https://github.com/eclipse-xfsc/portal-article-service
 * https://github.com/eclipse-xfsc/data-contract-transaction
 * https://github.com/eclipse-xfsc/facis-fap
 * https://github.com/eclipse-xfsc/portal-user-account-service
 * https://github.com/eclipse-xfsc/portal-admin-service
 * https://github.com/eclipse-xfsc/portal-onboarding-service
-* https://github.com/eclipse-xfsc/portal-lcm-service
 * https://github.com/eclipse-xfsc/train-dns-trust-zone-manager
 * https://github.com/eclipse-xfsc/notarization-service
 * https://github.com/eclipse-xfsc/oid4-vci-vp-integration-tests
 * https://github.com/eclipse-xfsc/cloud-event-provider
-* https://github.com/eclipse-xfsc/oid4-vci-authorization-bridge
-* https://github.com/eclipse-xfsc/portal-discovery-service
 * https://github.com/eclipse-xfsc/sd-validation-api
 * https://github.com/eclipse-xfsc/sd-jwt-service
 * https://github.com/eclipse-xfsc/portal-sp-service
@@ -91,8 +94,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/bdd-executor
 * https://github.com/eclipse-xfsc/aas
 * https://github.com/eclipse-xfsc/ssi-vdr-core
-* https://github.com/eclipse-xfsc/oid4-vci-vp-library
-* https://github.com/eclipse-xfsc/oid4-vci-issuer-service
 * https://github.com/eclipse-xfsc/oid4-vci-issuer-dummycontentsigner
 * https://github.com/eclipse-xfsc/crypto-provider-luna-cloud-hsm-plugin
 * https://github.com/eclipse-xfsc/crypto-provider-hashicorp-vault-plugin
@@ -110,7 +111,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/event-log-service
 * https://github.com/eclipse-xfsc/crypto-provider-service
 * https://github.com/eclipse-xfsc/oid4-vci-credential-retrieval-service
-* https://github.com/eclipse-xfsc/nats-message-library
 * https://github.com/eclipse-xfsc/oid4-vci-credential-verification-service
 * https://github.com/eclipse-xfsc/email-service
 * https://github.com/eclipse-xfsc/configuration-service
