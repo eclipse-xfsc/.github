@@ -79,27 +79,29 @@ more.
 The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/.github
+* https://github.com/eclipse-xfsc/sd-creation-wizard-frontend
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
+* https://github.com/eclipse-xfsc/portal-principal-credential-creation-service
 * https://github.com/eclipse-xfsc/oid4-vci-vp-library
+* https://github.com/eclipse-xfsc/oid4-vci-issuer-service
 * https://github.com/eclipse-xfsc/oid4-vci-authorization-bridge
+* https://github.com/eclipse-xfsc/dev-ops
+* https://github.com/eclipse-xfsc/.eclipsefdn
 * https://github.com/eclipse-xfsc/did-core
 * https://github.com/eclipse-xfsc/configuration-service
 * https://github.com/eclipse-xfsc/train-dns-trust-zone-manager
-* https://github.com/eclipse-xfsc/easy-stack-builder-catalogue
 * https://github.com/eclipse-xfsc/smartdeployment
 * https://github.com/eclipse-xfsc/deployment
 * https://github.com/eclipse-xfsc/cloud-wallet-plugin-backend-template
 * https://github.com/eclipse-xfsc/oid4-vci-issuer-dummycontentsigner
 * https://github.com/eclipse-xfsc/cloud-wallet-plugin-kubernetes-operator
 * https://github.com/eclipse-xfsc/nats-message-library
-* https://github.com/eclipse-xfsc/oid4-vci-issuer-service
 * https://github.com/eclipse-xfsc/ssi-jwt
 * https://github.com/eclipse-xfsc/portal-article-service
 * https://github.com/eclipse-xfsc/portal-lcm-service
 * https://github.com/eclipse-xfsc/portal-discovery-service
 * https://github.com/eclipse-xfsc/federated-catalogue
 * https://github.com/eclipse-xfsc/oid4-vci-vp-well-known-service
-* https://github.com/eclipse-xfsc/.eclipsefdn
 * https://github.com/eclipse-xfsc/cam
 * https://github.com/eclipse-xfsc/facis
 * https://github.com/eclipse-xfsc/didcomm-v2-connector
@@ -122,7 +124,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/aries-ssi-agent
 * https://github.com/eclipse-xfsc/redis-cache-service
 * https://github.com/eclipse-xfsc/portal-self-description-service
-* https://github.com/eclipse-xfsc/sd-creation-wizard-frontend
 * https://github.com/eclipse-xfsc/portal-demo
 * https://github.com/eclipse-xfsc/mobile-wallet
 * https://github.com/eclipse-xfsc/statuslist-service
@@ -130,7 +131,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/sd-creation-wizard-api
 * https://github.com/eclipse-xfsc/trusted-info-hub
 * https://github.com/eclipse-xfsc/facis-poc
-* https://github.com/eclipse-xfsc/dev-ops
 * https://github.com/eclipse-xfsc/data-exchange-logging
 * https://github.com/eclipse-xfsc/train-integration-tests
 * https://github.com/eclipse-xfsc/ssi-vdr-ipfs
@@ -158,8 +158,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/credential-storage-service
 * https://github.com/eclipse-xfsc/transmute-universal-resolver-driver
 * https://github.com/eclipse-xfsc/did
-* https://github.com/eclipse-xfsc/facis-fap1-implementation
-* https://github.com/eclipse-xfsc/trusted-cloud
 * https://github.com/eclipse-xfsc/orchestration-engine
 * https://github.com/eclipse-xfsc/portal-did-management-service
 * https://github.com/eclipse-xfsc/ipfs-document-manager
@@ -168,17 +166,11 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/oid4-vci-credential-retrieval-service
 * https://github.com/eclipse-xfsc/oid4-vci-credential-verification-service
 * https://github.com/eclipse-xfsc/email-service
-* https://github.com/eclipse-xfsc/easy-stack-builder-orce
-* https://github.com/eclipse-xfsc/easy-stack-builder
-* https://github.com/eclipse-xfsc/facis-fap2-implementation
-* https://github.com/eclipse-xfsc/facis-aviation-poc
-* https://github.com/eclipse-xfsc/aw40-demonstrator
 * https://github.com/eclipse-xfsc/docs
 * https://github.com/eclipse-xfsc/landingpage
 * https://github.com/eclipse-xfsc/cloud-wallet-account-service
 * https://github.com/eclipse-xfsc/portal-proof-management-service
 * https://github.com/eclipse-xfsc/cloud-wallet-plugin-discovery
-* https://github.com/eclipse-xfsc/portal-principal-credential-creation-service
 * https://github.com/eclipse-xfsc/portal-policy-management-service
 * https://github.com/eclipse-xfsc/train-trusted-content-resolver
 * https://github.com/eclipse-xfsc/workshops
