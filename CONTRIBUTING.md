@@ -80,6 +80,7 @@ The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
+* https://github.com/eclipse-xfsc/email-service
 * https://github.com/eclipse-xfsc/facis
 * https://github.com/eclipse-xfsc/oid4-vci-issuer-dummycontentsigner
 * https://github.com/eclipse-xfsc/docs
@@ -167,7 +168,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/event-log-service
 * https://github.com/eclipse-xfsc/oid4-vci-credential-retrieval-service
 * https://github.com/eclipse-xfsc/oid4-vci-credential-verification-service
-* https://github.com/eclipse-xfsc/email-service
 * https://github.com/eclipse-xfsc/landingpage
 * https://github.com/eclipse-xfsc/cloud-wallet-account-service
 * https://github.com/eclipse-xfsc/portal-proof-management-service
