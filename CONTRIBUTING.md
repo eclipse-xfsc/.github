@@ -78,8 +78,8 @@ more.
 
 The project maintains the following source code repositories:
 
-* https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
+* https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/email-service
 * https://github.com/eclipse-xfsc/did-core
 * https://github.com/eclipse-xfsc/crypto-provider-hashicorp-vault-plugin
