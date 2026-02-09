@@ -80,8 +80,8 @@ The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
-* https://github.com/eclipse-xfsc/train-dns-trust-zone-manager
 * https://github.com/eclipse-xfsc/facis
+* https://github.com/eclipse-xfsc/train-dns-trust-zone-manager
 * https://github.com/eclipse-xfsc/portal-article-service
 * https://github.com/eclipse-xfsc/portal-lcm-service
 * https://github.com/eclipse-xfsc/portal-discovery-service
