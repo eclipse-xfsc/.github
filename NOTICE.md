@@ -27,9 +27,9 @@ SPDX-License-Identifier: Apache-2.0
 The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
+* https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/docs
 * https://github.com/eclipse-xfsc/federated-catalogue
-* https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/configuration-service
 * https://github.com/eclipse-xfsc/facis
 * https://github.com/eclipse-xfsc/train-dns-trust-zone-manager
