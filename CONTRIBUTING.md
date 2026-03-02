@@ -80,12 +80,12 @@ The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
+* https://github.com/eclipse-xfsc/.eclipsefdn
 * https://github.com/eclipse-xfsc/facis-poc-federation-aviation
 * https://github.com/eclipse-xfsc/facis-fap-partner-onboarding
 * https://github.com/eclipse-xfsc/facis-fap-iot-ai
 * https://github.com/eclipse-xfsc/facis-fap-decentralized-catalogue-management
 * https://github.com/eclipse-xfsc/facis-dcs
-* https://github.com/eclipse-xfsc/.eclipsefdn
 * https://github.com/eclipse-xfsc/federated-catalogue
 * https://github.com/eclipse-xfsc/docs
 * https://github.com/eclipse-xfsc/configuration-service
