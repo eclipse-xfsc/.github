@@ -27,8 +27,11 @@ SPDX-License-Identifier: Apache-2.0
 The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
-* https://github.com/eclipse-xfsc/.eclipsefdn
+* https://github.com/eclipse-xfsc/email-service
+* https://github.com/eclipse-xfsc/ipfs-document-manager
+* https://github.com/eclipse-xfsc/configuration-service
 * https://github.com/eclipse-xfsc/.github
+* https://github.com/eclipse-xfsc/.eclipsefdn
 * https://github.com/eclipse-xfsc/facis-poc-federation-aviation
 * https://github.com/eclipse-xfsc/facis-fap-partner-onboarding
 * https://github.com/eclipse-xfsc/facis-fap-iot-ai
@@ -36,7 +39,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/facis-dcs
 * https://github.com/eclipse-xfsc/federated-catalogue
 * https://github.com/eclipse-xfsc/docs
-* https://github.com/eclipse-xfsc/configuration-service
 * https://github.com/eclipse-xfsc/facis
 * https://github.com/eclipse-xfsc/train-dns-trust-zone-manager
 * https://github.com/eclipse-xfsc/osc-devops-docs
@@ -45,7 +47,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/portal-discovery-service
 * https://github.com/eclipse-xfsc/oid4-vci-vp-library
 * https://github.com/eclipse-xfsc/smartdeployment
-* https://github.com/eclipse-xfsc/email-service
 * https://github.com/eclipse-xfsc/did-core
 * https://github.com/eclipse-xfsc/crypto-provider-hashicorp-vault-plugin
 * https://github.com/eclipse-xfsc/ssi-jwt
@@ -116,7 +117,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/transmute-universal-resolver-driver
 * https://github.com/eclipse-xfsc/did
 * https://github.com/eclipse-xfsc/orchestration-engine
-* https://github.com/eclipse-xfsc/ipfs-document-manager
 * https://github.com/eclipse-xfsc/event-log-service
 * https://github.com/eclipse-xfsc/oid4-vci-credential-retrieval-service
 * https://github.com/eclipse-xfsc/oid4-vci-credential-verification-service
