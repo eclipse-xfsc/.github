@@ -80,6 +80,10 @@ The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
+* https://github.com/eclipse-xfsc/dev-ops
+* https://github.com/eclipse-xfsc/crypto-provider-service
+* https://github.com/eclipse-xfsc/federated-catalogue
+* https://github.com/eclipse-xfsc/docs
 * https://github.com/eclipse-xfsc/smartdeployment
 * https://github.com/eclipse-xfsc/facis-fap-decentralized-catalogue-management
 * https://github.com/eclipse-xfsc/configuration-service
@@ -87,8 +91,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/cat-integration-tests
 * https://github.com/eclipse-xfsc/cat-enhnacements
 * https://github.com/eclipse-xfsc/.eclipsefdn
-* https://github.com/eclipse-xfsc/docs
-* https://github.com/eclipse-xfsc/federated-catalogue
 * https://github.com/eclipse-xfsc/facis-dcs
 * https://github.com/eclipse-xfsc/facis-fap-iot-ai
 * https://github.com/eclipse-xfsc/facis
@@ -113,7 +115,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/oid4-vci-issuer-dummycontentsigner
 * https://github.com/eclipse-xfsc/nats-message-library
 * https://github.com/eclipse-xfsc/oid4-vci-issuer-service
-* https://github.com/eclipse-xfsc/crypto-provider-service
 * https://github.com/eclipse-xfsc/oid4-vci-authorization-bridge
 * https://github.com/eclipse-xfsc/crypto-provider-local-plugin
 * https://github.com/eclipse-xfsc/train-trusted-content-resolver
@@ -125,7 +126,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/cloud-wallet-integration-tests
 * https://github.com/eclipse-xfsc/portal-did-management-service
 * https://github.com/eclipse-xfsc/portal-principal-credential-creation-service
-* https://github.com/eclipse-xfsc/dev-ops
 * https://github.com/eclipse-xfsc/deployment
 * https://github.com/eclipse-xfsc/oid4-vci-vp-well-known-service
 * https://github.com/eclipse-xfsc/didcomm-v2-connector
