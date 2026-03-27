@@ -27,11 +27,12 @@ SPDX-License-Identifier: Apache-2.0
 The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
-* https://github.com/eclipse-xfsc/dev-ops
+* https://github.com/eclipse-xfsc/oid4-vci-authorization-bridge
 * https://github.com/eclipse-xfsc/crypto-provider-service
+* https://github.com/eclipse-xfsc/.github
+* https://github.com/eclipse-xfsc/dev-ops
 * https://github.com/eclipse-xfsc/federated-catalogue
 * https://github.com/eclipse-xfsc/docs
-* https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/smartdeployment
 * https://github.com/eclipse-xfsc/facis-fap-decentralized-catalogue-management
 * https://github.com/eclipse-xfsc/configuration-service
@@ -63,7 +64,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/oid4-vci-issuer-dummycontentsigner
 * https://github.com/eclipse-xfsc/nats-message-library
 * https://github.com/eclipse-xfsc/oid4-vci-issuer-service
-* https://github.com/eclipse-xfsc/oid4-vci-authorization-bridge
 * https://github.com/eclipse-xfsc/crypto-provider-local-plugin
 * https://github.com/eclipse-xfsc/train-trusted-content-resolver
 * https://github.com/eclipse-xfsc/cam
