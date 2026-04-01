@@ -80,6 +80,7 @@ The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
+* https://github.com/eclipse-xfsc/crypto-provider-hashicorp-vault-plugin
 * https://github.com/eclipse-xfsc/facis-fap-iot-ai
 * https://github.com/eclipse-xfsc/oid4-vci-authorization-bridge
 * https://github.com/eclipse-xfsc/crypto-provider-service
@@ -106,7 +107,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/portal-discovery-service
 * https://github.com/eclipse-xfsc/oid4-vci-vp-library
 * https://github.com/eclipse-xfsc/did-core
-* https://github.com/eclipse-xfsc/crypto-provider-hashicorp-vault-plugin
 * https://github.com/eclipse-xfsc/ssi-jwt
 * https://github.com/eclipse-xfsc/cloud-wallet-plugin-kubernetes-operator
 * https://github.com/eclipse-xfsc/oid4-vci-vp-integration-tests
