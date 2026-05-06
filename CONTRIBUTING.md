@@ -80,8 +80,11 @@ The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
-* https://github.com/eclipse-xfsc/facis
+* https://github.com/eclipse-xfsc/deployment
 * https://github.com/eclipse-xfsc/docs
+* https://github.com/eclipse-xfsc/dev-ops
+* https://github.com/eclipse-xfsc/crypto-provider-luna-cloud-hsm-plugin
+* https://github.com/eclipse-xfsc/facis
 * https://github.com/eclipse-xfsc/federated-catalogue
 * https://github.com/eclipse-xfsc/facis-fap-decentralized-catalogue-management
 * https://github.com/eclipse-xfsc/facis-fap-iot-ai
@@ -91,7 +94,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/crypto-provider-hashicorp-vault-plugin
 * https://github.com/eclipse-xfsc/oid4-vci-authorization-bridge
 * https://github.com/eclipse-xfsc/crypto-provider-service
-* https://github.com/eclipse-xfsc/dev-ops
 * https://github.com/eclipse-xfsc/configuration-service
 * https://github.com/eclipse-xfsc/facis-fap-principal-credential-issuance
 * https://github.com/eclipse-xfsc/cat-integration-tests
@@ -127,7 +129,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/cloud-wallet-integration-tests
 * https://github.com/eclipse-xfsc/portal-did-management-service
 * https://github.com/eclipse-xfsc/portal-principal-credential-creation-service
-* https://github.com/eclipse-xfsc/deployment
 * https://github.com/eclipse-xfsc/oid4-vci-vp-well-known-service
 * https://github.com/eclipse-xfsc/didcomm-v2-connector
 * https://github.com/eclipse-xfsc/data-contract-transaction
@@ -168,7 +169,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/bdd-executor
 * https://github.com/eclipse-xfsc/aas
 * https://github.com/eclipse-xfsc/ssi-vdr-core
-* https://github.com/eclipse-xfsc/crypto-provider-luna-cloud-hsm-plugin
 * https://github.com/eclipse-xfsc/credential-storage-service
 * https://github.com/eclipse-xfsc/transmute-universal-resolver-driver
 * https://github.com/eclipse-xfsc/did
