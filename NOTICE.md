@@ -27,13 +27,15 @@ SPDX-License-Identifier: Apache-2.0
 The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
+* https://github.com/eclipse-xfsc/facis
+* https://github.com/eclipse-xfsc/federated-catalogue
+* https://github.com/eclipse-xfsc/configuration-service
+* https://github.com/eclipse-xfsc/facis-dcs
+* https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/deployment
 * https://github.com/eclipse-xfsc/docs
 * https://github.com/eclipse-xfsc/dev-ops
 * https://github.com/eclipse-xfsc/crypto-provider-luna-cloud-hsm-plugin
-* https://github.com/eclipse-xfsc/.github
-* https://github.com/eclipse-xfsc/facis
-* https://github.com/eclipse-xfsc/federated-catalogue
 * https://github.com/eclipse-xfsc/facis-fap-decentralized-catalogue-management
 * https://github.com/eclipse-xfsc/facis-fap-iot-ai
 * https://github.com/eclipse-xfsc/facis-poc-federation-aviation
@@ -42,12 +44,10 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/crypto-provider-hashicorp-vault-plugin
 * https://github.com/eclipse-xfsc/oid4-vci-authorization-bridge
 * https://github.com/eclipse-xfsc/crypto-provider-service
-* https://github.com/eclipse-xfsc/configuration-service
 * https://github.com/eclipse-xfsc/facis-fap-principal-credential-issuance
 * https://github.com/eclipse-xfsc/cat-integration-tests
 * https://github.com/eclipse-xfsc/cat-enhnacements
 * https://github.com/eclipse-xfsc/.eclipsefdn
-* https://github.com/eclipse-xfsc/facis-dcs
 * https://github.com/eclipse-xfsc/facis-fap-partner-onboarding
 * https://github.com/eclipse-xfsc/email-service
 * https://github.com/eclipse-xfsc/ipfs-document-manager
