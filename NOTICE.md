@@ -29,9 +29,13 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
 * https://github.com/eclipse-xfsc/deployment
 * https://github.com/eclipse-xfsc/federated-catalogue
-* https://github.com/eclipse-xfsc/facis
-* https://github.com/eclipse-xfsc/.github
+* https://github.com/eclipse-xfsc/statuslist-service
+* https://github.com/eclipse-xfsc/sd-jwt-service
+* https://github.com/eclipse-xfsc/oid4-vci-issuer-service
+* https://github.com/eclipse-xfsc/oid4-vci-vp-library
 * https://github.com/eclipse-xfsc/docs
+* https://github.com/eclipse-xfsc/.github
+* https://github.com/eclipse-xfsc/facis
 * https://github.com/eclipse-xfsc/facis-dcs
 * https://github.com/eclipse-xfsc/smartdeployment
 * https://github.com/eclipse-xfsc/facis-fap-iot-ai
@@ -56,7 +60,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/portal-article-service
 * https://github.com/eclipse-xfsc/portal-lcm-service
 * https://github.com/eclipse-xfsc/portal-discovery-service
-* https://github.com/eclipse-xfsc/oid4-vci-vp-library
 * https://github.com/eclipse-xfsc/did-core
 * https://github.com/eclipse-xfsc/ssi-jwt
 * https://github.com/eclipse-xfsc/cloud-wallet-plugin-kubernetes-operator
@@ -66,7 +69,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/crypto-provider-core
 * https://github.com/eclipse-xfsc/oid4-vci-issuer-dummycontentsigner
 * https://github.com/eclipse-xfsc/nats-message-library
-* https://github.com/eclipse-xfsc/oid4-vci-issuer-service
 * https://github.com/eclipse-xfsc/crypto-provider-local-plugin
 * https://github.com/eclipse-xfsc/train-trusted-content-resolver
 * https://github.com/eclipse-xfsc/cam
@@ -85,7 +87,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/portal-onboarding-service
 * https://github.com/eclipse-xfsc/cloud-event-provider
 * https://github.com/eclipse-xfsc/sd-validation-api
-* https://github.com/eclipse-xfsc/sd-jwt-service
 * https://github.com/eclipse-xfsc/portal-sp-service
 * https://github.com/eclipse-xfsc/portal-dashboard-service
 * https://github.com/eclipse-xfsc/cloud-wallet-plugin-frontend-template
@@ -94,7 +95,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/portal-self-description-service
 * https://github.com/eclipse-xfsc/portal-demo
 * https://github.com/eclipse-xfsc/mobile-wallet
-* https://github.com/eclipse-xfsc/statuslist-service
 * https://github.com/eclipse-xfsc/microservice-core-go
 * https://github.com/eclipse-xfsc/sd-creation-wizard-api
 * https://github.com/eclipse-xfsc/trusted-info-hub
