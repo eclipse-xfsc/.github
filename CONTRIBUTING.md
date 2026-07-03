@@ -80,10 +80,13 @@ The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
-* https://github.com/eclipse-xfsc/cat-integration-tests
-* https://github.com/eclipse-xfsc/smartdeployment
-* https://github.com/eclipse-xfsc/federated-catalogue
+* https://github.com/eclipse-xfsc/nats-message-library
 * https://github.com/eclipse-xfsc/facis-fap-iot-ai
+* https://github.com/eclipse-xfsc/facis-fap-decentralized-catalogue-management
+* https://github.com/eclipse-xfsc/smartdeployment
+* https://github.com/eclipse-xfsc/cloud-event-provider
+* https://github.com/eclipse-xfsc/cat-integration-tests
+* https://github.com/eclipse-xfsc/federated-catalogue
 * https://github.com/eclipse-xfsc/kubernetes-operator
 * https://github.com/eclipse-xfsc/orce-cluster-admin
 * https://github.com/eclipse-xfsc/.eclipsefdn
@@ -97,7 +100,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/oid4-vci-issuer-service
 * https://github.com/eclipse-xfsc/oid4-vci-vp-library
 * https://github.com/eclipse-xfsc/configuration-service
-* https://github.com/eclipse-xfsc/facis-fap-decentralized-catalogue-management
 * https://github.com/eclipse-xfsc/dev-ops
 * https://github.com/eclipse-xfsc/crypto-provider-luna-cloud-hsm-plugin
 * https://github.com/eclipse-xfsc/facis-poc-federation-aviation
@@ -122,7 +124,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/cloud-wallet-plugin-backend-template
 * https://github.com/eclipse-xfsc/crypto-provider-core
 * https://github.com/eclipse-xfsc/oid4-vci-issuer-dummycontentsigner
-* https://github.com/eclipse-xfsc/nats-message-library
 * https://github.com/eclipse-xfsc/crypto-provider-local-plugin
 * https://github.com/eclipse-xfsc/train-trusted-content-resolver
 * https://github.com/eclipse-xfsc/cam
@@ -139,7 +140,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/portal-user-account-service
 * https://github.com/eclipse-xfsc/portal-admin-service
 * https://github.com/eclipse-xfsc/portal-onboarding-service
-* https://github.com/eclipse-xfsc/cloud-event-provider
 * https://github.com/eclipse-xfsc/sd-validation-api
 * https://github.com/eclipse-xfsc/portal-sp-service
 * https://github.com/eclipse-xfsc/portal-dashboard-service
