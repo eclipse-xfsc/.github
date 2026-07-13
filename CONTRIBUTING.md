@@ -81,6 +81,7 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
 * https://github.com/eclipse-xfsc/kubernetes-operator
+* https://github.com/eclipse-xfsc/deployment
 * https://github.com/eclipse-xfsc/crypto-provider-core
 * https://github.com/eclipse-xfsc/cloud-event-provider
 * https://github.com/eclipse-xfsc/facis-fap-iot-ai
@@ -93,7 +94,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/federated-catalogue
 * https://github.com/eclipse-xfsc/orce-cluster-admin
 * https://github.com/eclipse-xfsc/.eclipsefdn
-* https://github.com/eclipse-xfsc/deployment
 * https://github.com/eclipse-xfsc/facis
 * https://github.com/eclipse-xfsc/facis-dcs
 * https://github.com/eclipse-xfsc/facis-fap-partner-onboarding
