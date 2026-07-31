@@ -28,13 +28,15 @@ The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
 * https://github.com/eclipse-xfsc/deployment
-* https://github.com/eclipse-xfsc/.eclipsefdn
-* https://github.com/eclipse-xfsc/dev-ops
-* https://github.com/eclipse-xfsc/oid4-vci-issuer-service
-* https://github.com/eclipse-xfsc/ssi-jwt
 * https://github.com/eclipse-xfsc/oid4-vci-authorization-bridge
-* https://github.com/eclipse-xfsc/oid4-vci-credential-retrieval-service
+* https://github.com/eclipse-xfsc/microservice-core-go
+* https://github.com/eclipse-xfsc/sd-jwt-service
+* https://github.com/eclipse-xfsc/oid4-vci-issuer-service
+* https://github.com/eclipse-xfsc/dev-ops
 * https://github.com/eclipse-xfsc/.github
+* https://github.com/eclipse-xfsc/.eclipsefdn
+* https://github.com/eclipse-xfsc/ssi-jwt
+* https://github.com/eclipse-xfsc/oid4-vci-credential-retrieval-service
 * https://github.com/eclipse-xfsc/smartdeployment
 * https://github.com/eclipse-xfsc/facis-fap-iot-ai
 * https://github.com/eclipse-xfsc/kubernetes-operator
@@ -50,7 +52,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/facis-dcs
 * https://github.com/eclipse-xfsc/facis-fap-partner-onboarding
 * https://github.com/eclipse-xfsc/docs
-* https://github.com/eclipse-xfsc/sd-jwt-service
 * https://github.com/eclipse-xfsc/oid4-vci-vp-library
 * https://github.com/eclipse-xfsc/configuration-service
 * https://github.com/eclipse-xfsc/crypto-provider-luna-cloud-hsm-plugin
@@ -98,7 +99,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/portal-self-description-service
 * https://github.com/eclipse-xfsc/portal-demo
 * https://github.com/eclipse-xfsc/mobile-wallet
-* https://github.com/eclipse-xfsc/microservice-core-go
 * https://github.com/eclipse-xfsc/sd-creation-wizard-api
 * https://github.com/eclipse-xfsc/trusted-info-hub
 * https://github.com/eclipse-xfsc/data-exchange-logging
