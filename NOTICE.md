@@ -27,15 +27,16 @@ SPDX-License-Identifier: Apache-2.0
 The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
-* https://github.com/eclipse-xfsc/credential-storage-service
 * https://github.com/eclipse-xfsc/deployment
+* https://github.com/eclipse-xfsc/credential-storage-service
+* https://github.com/eclipse-xfsc/oid4-vci-credential-retrieval-service
+* https://github.com/eclipse-xfsc/oid4-vci-vp-well-known-service
+* https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/statuslist-service
 * https://github.com/eclipse-xfsc/crypto-provider-service
 * https://github.com/eclipse-xfsc/sd-jwt-service
-* https://github.com/eclipse-xfsc/oid4-vci-vp-well-known-service
 * https://github.com/eclipse-xfsc/oid4-vci-authorization-bridge
 * https://github.com/eclipse-xfsc/kubernetes-operator
-* https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/crypto-provider-hashicorp-vault-plugin
 * https://github.com/eclipse-xfsc/facis
 * https://github.com/eclipse-xfsc/facis-fap-decentralized-catalogue-management
@@ -47,7 +48,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/oid4-vci-issuer-service
 * https://github.com/eclipse-xfsc/.eclipsefdn
 * https://github.com/eclipse-xfsc/ssi-jwt
-* https://github.com/eclipse-xfsc/oid4-vci-credential-retrieval-service
 * https://github.com/eclipse-xfsc/cat-integration-tests
 * https://github.com/eclipse-xfsc/federated-catalogue
 * https://github.com/eclipse-xfsc/crypto-provider-core
