@@ -27,11 +27,11 @@ SPDX-License-Identifier: Apache-2.0
 The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
+* https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/deployment
 * https://github.com/eclipse-xfsc/credential-storage-service
 * https://github.com/eclipse-xfsc/oid4-vci-credential-retrieval-service
 * https://github.com/eclipse-xfsc/oid4-vci-vp-well-known-service
-* https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/statuslist-service
 * https://github.com/eclipse-xfsc/crypto-provider-service
 * https://github.com/eclipse-xfsc/sd-jwt-service
