@@ -80,6 +80,7 @@ The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
+* https://github.com/eclipse-xfsc/cat-integration-tests
 * https://github.com/eclipse-xfsc/deployment
 * https://github.com/eclipse-xfsc/statuslist-service
 * https://github.com/eclipse-xfsc/oid4-vci-issuer-service
@@ -101,7 +102,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/microservice-core-go
 * https://github.com/eclipse-xfsc/.eclipsefdn
 * https://github.com/eclipse-xfsc/ssi-jwt
-* https://github.com/eclipse-xfsc/cat-integration-tests
 * https://github.com/eclipse-xfsc/federated-catalogue
 * https://github.com/eclipse-xfsc/crypto-provider-core
 * https://github.com/eclipse-xfsc/cloud-event-provider
