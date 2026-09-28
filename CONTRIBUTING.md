@@ -80,19 +80,20 @@ The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
+* https://github.com/eclipse-xfsc/deployment
+* https://github.com/eclipse-xfsc/oid4-vci-issuer-service
+* https://github.com/eclipse-xfsc/oid4-vci-authorization-bridge
+* https://github.com/eclipse-xfsc/facis-fap-principal-credential-issuance
 * https://github.com/eclipse-xfsc/facis
+* https://github.com/eclipse-xfsc/cat-integration-tests
 * https://github.com/eclipse-xfsc/facis-zero-trust-demonstrator
 * https://github.com/eclipse-xfsc/federated-catalogue
 * https://github.com/eclipse-xfsc/oid4-vci-vp-library
 * https://github.com/eclipse-xfsc/docs
-* https://github.com/eclipse-xfsc/cat-integration-tests
 * https://github.com/eclipse-xfsc/custom-policy-agent
-* https://github.com/eclipse-xfsc/deployment
 * https://github.com/eclipse-xfsc/oid4-vci-credential-retrieval-service
 * https://github.com/eclipse-xfsc/oid4-vci-issuer-dummycontentsigner
 * https://github.com/eclipse-xfsc/oid4-vci-vp-well-known-service
-* https://github.com/eclipse-xfsc/oid4-vci-issuer-service
-* https://github.com/eclipse-xfsc/oid4-vci-authorization-bridge
 * https://github.com/eclipse-xfsc/crypto-provider-service
 * https://github.com/eclipse-xfsc/nats-message-library
 * https://github.com/eclipse-xfsc/dev-ops
@@ -117,7 +118,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/configuration-service
 * https://github.com/eclipse-xfsc/crypto-provider-luna-cloud-hsm-plugin
 * https://github.com/eclipse-xfsc/facis-poc-federation-aviation
-* https://github.com/eclipse-xfsc/facis-fap-principal-credential-issuance
 * https://github.com/eclipse-xfsc/cat-enhnacements
 * https://github.com/eclipse-xfsc/email-service
 * https://github.com/eclipse-xfsc/ipfs-document-manager
