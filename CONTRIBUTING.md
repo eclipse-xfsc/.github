@@ -80,22 +80,23 @@ The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
+* https://github.com/eclipse-xfsc/facis-fap-principal-credential-issuance
+* https://github.com/eclipse-xfsc/oid4-vci-credential-verification-service
+* https://github.com/eclipse-xfsc/oid4-vci-credential-retrieval-service
+* https://github.com/eclipse-xfsc/facis
+* https://github.com/eclipse-xfsc/facis-zero-trust-demonstrator
 * https://github.com/eclipse-xfsc/deployment
 * https://github.com/eclipse-xfsc/sd-jwt-service
 * https://github.com/eclipse-xfsc/dev-ops
-* https://github.com/eclipse-xfsc/oid4-vci-credential-retrieval-service
 * https://github.com/eclipse-xfsc/crypto-provider-service
-* https://github.com/eclipse-xfsc/facis
 * https://github.com/eclipse-xfsc/oid4-vci-issuer-service
 * https://github.com/eclipse-xfsc/.eclipsefdn
-* https://github.com/eclipse-xfsc/facis-zero-trust-demonstrator
 * https://github.com/eclipse-xfsc/credential-storage-service
 * https://github.com/eclipse-xfsc/oid4-vci-vp-library
 * https://github.com/eclipse-xfsc/federated-catalogue
 * https://github.com/eclipse-xfsc/oid4-vci-issuer-dummycontentsigner
 * https://github.com/eclipse-xfsc/oid4-vci-vp-well-known-service
 * https://github.com/eclipse-xfsc/oid4-vci-authorization-bridge
-* https://github.com/eclipse-xfsc/facis-fap-principal-credential-issuance
 * https://github.com/eclipse-xfsc/cat-integration-tests
 * https://github.com/eclipse-xfsc/docs
 * https://github.com/eclipse-xfsc/custom-policy-agent
@@ -178,7 +179,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/transmute-universal-resolver-driver
 * https://github.com/eclipse-xfsc/did
 * https://github.com/eclipse-xfsc/event-log-service
-* https://github.com/eclipse-xfsc/oid4-vci-credential-verification-service
 * https://github.com/eclipse-xfsc/landingpage
 * https://github.com/eclipse-xfsc/cloud-wallet-account-service
 * https://github.com/eclipse-xfsc/portal-proof-management-service
