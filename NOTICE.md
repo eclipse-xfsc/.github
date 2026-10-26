@@ -27,18 +27,19 @@ SPDX-License-Identifier: Apache-2.0
 The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
-* https://github.com/eclipse-xfsc/facis-fap-principal-credential-issuance
-* https://github.com/eclipse-xfsc/facis
-* https://github.com/eclipse-xfsc/deployment
 * https://github.com/eclipse-xfsc/oid4-vci-credential-verification-service
+* https://github.com/eclipse-xfsc/deployment
+* https://github.com/eclipse-xfsc/kubernetes-operator
+* https://github.com/eclipse-xfsc/custom-policy-agent
+* https://github.com/eclipse-xfsc/facis
 * https://github.com/eclipse-xfsc/.github
+* https://github.com/eclipse-xfsc/facis-fap-principal-credential-issuance
 * https://github.com/eclipse-xfsc/facis-zero-trust-demonstrator
 * https://github.com/eclipse-xfsc/sd-jwt-service
 * https://github.com/eclipse-xfsc/crypto-provider-service
 * https://github.com/eclipse-xfsc/oid4-vci-credential-retrieval-service
 * https://github.com/eclipse-xfsc/credential-storage-service
 * https://github.com/eclipse-xfsc/nats-message-library
-* https://github.com/eclipse-xfsc/custom-policy-agent
 * https://github.com/eclipse-xfsc/redis-cache-service
 * https://github.com/eclipse-xfsc/ssi-jwt
 * https://github.com/eclipse-xfsc/did-core
@@ -57,7 +58,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/orchestration-engine
 * https://github.com/eclipse-xfsc/facis-ai-challenge
 * https://github.com/eclipse-xfsc/crypto-provider-core
-* https://github.com/eclipse-xfsc/kubernetes-operator
 * https://github.com/eclipse-xfsc/crypto-provider-hashicorp-vault-plugin
 * https://github.com/eclipse-xfsc/facis-fap-decentralized-catalogue-management
 * https://github.com/eclipse-xfsc/smartdeployment
