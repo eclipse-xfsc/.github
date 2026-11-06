@@ -80,21 +80,22 @@ The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
-* https://github.com/eclipse-xfsc/facis
 * https://github.com/eclipse-xfsc/deployment
+* https://github.com/eclipse-xfsc/custom-policy-agent
+* https://github.com/eclipse-xfsc/redis-cache-service
+* https://github.com/eclipse-xfsc/kubernetes-operator
+* https://github.com/eclipse-xfsc/rego-policies
+* https://github.com/eclipse-xfsc/facis
 * https://github.com/eclipse-xfsc/oid4-vci-credential-verification-service
+* https://github.com/eclipse-xfsc/oid4-vci-vp-library
 * https://github.com/eclipse-xfsc/sd-jwt-service
 * https://github.com/eclipse-xfsc/smartdeployment
 * https://github.com/eclipse-xfsc/crypto-provider-service
-* https://github.com/eclipse-xfsc/oid4-vci-vp-library
 * https://github.com/eclipse-xfsc/facis-zero-trust-demonstrator
-* https://github.com/eclipse-xfsc/kubernetes-operator
-* https://github.com/eclipse-xfsc/custom-policy-agent
 * https://github.com/eclipse-xfsc/facis-fap-principal-credential-issuance
 * https://github.com/eclipse-xfsc/oid4-vci-credential-retrieval-service
 * https://github.com/eclipse-xfsc/credential-storage-service
 * https://github.com/eclipse-xfsc/nats-message-library
-* https://github.com/eclipse-xfsc/redis-cache-service
 * https://github.com/eclipse-xfsc/ssi-jwt
 * https://github.com/eclipse-xfsc/did-core
 * https://github.com/eclipse-xfsc/facis-dcs
@@ -193,7 +194,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/portal-pre-acceptance-testing
 * https://github.com/eclipse-xfsc/portal-infra-mesh
 * https://github.com/eclipse-xfsc/train-shared
-* https://github.com/eclipse-xfsc/rego-policies
 * https://github.com/eclipse-xfsc/didcomm-mediator-service
 
 ## Eclipse Development Process
