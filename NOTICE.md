@@ -27,17 +27,19 @@ SPDX-License-Identifier: Apache-2.0
 The project maintains the following source code repositories:
 
 * https://github.com/eclipse-xfsc/org.eclipse.xfsc
-* https://github.com/eclipse-xfsc/oid4-vci-credential-verification-service
-* https://github.com/eclipse-xfsc/facis
-* https://github.com/eclipse-xfsc/facis-fap-principal-credential-issuance
+* https://github.com/eclipse-xfsc/deployment
 * https://github.com/eclipse-xfsc/dev-ops
+* https://github.com/eclipse-xfsc/facis
+* https://github.com/eclipse-xfsc/cloud-wallet-web-ui
+* https://github.com/eclipse-xfsc/oid4-vci-issuer-dummycontentsigner
+* https://github.com/eclipse-xfsc/.github
+* https://github.com/eclipse-xfsc/oid4-vci-credential-verification-service
+* https://github.com/eclipse-xfsc/facis-fap-principal-credential-issuance
 * https://github.com/eclipse-xfsc/.eclipsefdn
 * https://github.com/eclipse-xfsc/facis-zero-trust-demonstrator
 * https://github.com/eclipse-xfsc/facis-poc-convoy-demonstrator
-* https://github.com/eclipse-xfsc/.github
 * https://github.com/eclipse-xfsc/nats-message-library
 * https://github.com/eclipse-xfsc/configuration-service
-* https://github.com/eclipse-xfsc/deployment
 * https://github.com/eclipse-xfsc/rego-policies
 * https://github.com/eclipse-xfsc/custom-policy-agent
 * https://github.com/eclipse-xfsc/redis-cache-service
@@ -53,7 +55,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/facis-dcs
 * https://github.com/eclipse-xfsc/oid4-vci-issuer-service
 * https://github.com/eclipse-xfsc/federated-catalogue
-* https://github.com/eclipse-xfsc/oid4-vci-issuer-dummycontentsigner
 * https://github.com/eclipse-xfsc/oid4-vci-vp-well-known-service
 * https://github.com/eclipse-xfsc/oid4-vci-authorization-bridge
 * https://github.com/eclipse-xfsc/cat-integration-tests
@@ -121,7 +122,6 @@ The project maintains the following source code repositories:
 * https://github.com/eclipse-xfsc/portal-e2e-test-automation
 * https://github.com/eclipse-xfsc/portal-claim-mapping-service
 * https://github.com/eclipse-xfsc/portal-claim-mapping-library
-* https://github.com/eclipse-xfsc/cloud-wallet-web-ui
 * https://github.com/eclipse-xfsc/cloud-wallet-plugin-core
 * https://github.com/eclipse-xfsc/bdd-executor
 * https://github.com/eclipse-xfsc/aas
